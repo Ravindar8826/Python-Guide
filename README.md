@@ -8,4 +8,4 @@ Example of these variable are: name = "Ravindar"  #string
                                height = 5.7       # Float
                                is_student = True  # Boolean
 Basic Data Structure : List(Ordered, Mutuable), Tuple(Ordered, Immutable), Dictionaries(Key value pairs), Conditional Statements, Loops, Functions, Reading & Writing Files, Working with libraries, Exception Handling.
-Common libraries: NumPy, Pandas, Matplotlib
+Common libraries: NumPy, Pandas, Matplotlib.
