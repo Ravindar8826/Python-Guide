@@ -9,3 +9,11 @@ Example of these variable are: name = "Ravindar"  #string
                                is_student = True  # Boolean
 Basic Data Structure : List(Ordered, Mutuable), Tuple(Ordered, Immutable), Dictionaries(Key value pairs), Conditional Statements, Loops, Functions, Reading & Writing Files, Working with libraries, Exception Handling.
 Common libraries: NumPy, Pandas, Matplotlib.
+
+
+Data Analysis: Pandas, Numpy
+Data Visualization: Matplotlib, Seaborn
+Machine Learning: Scikit-learn , Tensoreflow/ Pytorch
+Webscraping: Requests, Beautifulsoup, Selenium
+Statstics: Statsmodels
+Database: Sqlite3/ SQLAlchemy
