@@ -77,3 +77,6 @@ Python is widely used in economic research for data analysis, econometrics, mach
 9. Dynamic Macro modelling
 
 For modelling Normalize and Standardize the data
+
+
+[Note: This page is still in Progress, it's not completed yet]
